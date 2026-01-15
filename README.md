@@ -217,5 +217,7 @@ This project demonstrates proficiency in:
 
 **Name:** Dhiren P. Lulla  
 **Graduation:** 2026 
+
 **[GitHub](https://github.com/dhirenlulla)**
+
 **[LinkedIn](https://www.linkedin.com/in/dhirenlulla/)**
