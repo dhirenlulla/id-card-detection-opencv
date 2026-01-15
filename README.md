@@ -206,6 +206,12 @@ This project demonstrates proficiency in:
 - ✅ Perspective transformation
 - ✅ Algorithm documentation and software engineering practices
 
+## 🧠 Learning Outcome
+
+This project involved learning OpenCV from scratch and applying its
+core concepts immediately in a real-world problem.  
+It strengthened my understanding of classical computer vision pipelines
+and practical debugging techniques.
 
 ---
 
