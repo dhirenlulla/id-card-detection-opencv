@@ -1,9 +1,5 @@
 # Document Detection - ID Card Boundary Detection Algorithm
 
-**Assignment Submission for AI Trainee Position**  
-**Candidate:** Dhiren P. Lulla  
-**Company:** Refurbedge Pvt. Ltd.
-
 ---
 
 ## 📋 Problem Statement
@@ -213,7 +209,7 @@ This project demonstrates proficiency in:
 
 ---
 
-## 👤 Author Information
+## 👤 Author
 
 **Name:** Dhiren P. Lulla  
 **Graduation:** 2026 
